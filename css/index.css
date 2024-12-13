@@ -7,6 +7,9 @@
 body {
     margin: 30px;
 }
+border, td, th {
+    border: 1px solid black;
+}
 
   th {
     text-align: left;
